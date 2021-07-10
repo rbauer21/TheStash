@@ -1,2 +1,2 @@
 # Data Analysis Projects
-Things that I have been up to
+Personal projects that I have been working on to help display my technical skills and thought process used when analyzing and transforming data sets
