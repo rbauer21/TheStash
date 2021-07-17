@@ -2,7 +2,7 @@
 Select *
 From stats2020_2021
 order by 1, 9
-
+;
 --Using this CTE to calculate league average point total, could modify this to exclude players skewing data
 --Useful for identifying the number of players on a team who contribute higher than league average scoring
 --This is a strong indicator of offensive depth
