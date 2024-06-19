@@ -2,7 +2,7 @@
 --looks into items with the discontinued flag set to 1, nothing significant
 select od.orderID, od.productID, o.orderDate, o.requiredDate, o.shippedDate, p.productName, p.discontinued
 from order_details od
-join orders o
+join orders o 
 on od.orderID = o.orderID
 join products p
 on od.productID = p.productID
